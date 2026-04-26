@@ -1,0 +1,9 @@
+{
+  "name": "vonage_jwt_generator",
+  "version": "0.0.1",
+  "description": "Vonage JWT generator for Corezoid Git Call",
+  "main": "get_jwt.js",
+  "dependencies": {
+    "@vonage/jwt": "^1.2.1"
+  }
+}
